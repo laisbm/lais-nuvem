@@ -1,0 +1,122 @@
+
+@media only screen and (max-width: 600px) { 
+    body {background-color: rgb(232, 240, 164);} }
+
+    
+.p1{text-align: center;
+font-size: 200%;
+color: rgb(7, 7, 71);
+border-color: black;
+border-width: 6px;
+border-style: groove;
+margin-left: 10%;
+margin-right: 10%;
+padding-top: 1%;
+padding-bottom: 1%;}
+
+.p2{text-align: center;
+    font-size: 150%;
+    color: rgb(110, 1, 101);
+}
+.p3{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    margin-left: 10%;
+    margin-right: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(235, 235, 148);}
+
+.p4{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style: dashed;
+    margin-top: 1%;
+    margin-left: 50%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(153, 233, 133);}
+
+.p5{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 6px;
+    border-style: double;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(237, 145, 245);}
+
+.p6{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+    margin-top: 1%;
+    margin-left: 50%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(123, 202, 233);}
+
+.p7{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style:groove;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(193, 138, 238);}
+
+.p8{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style:dashed;
+    margin-top: 1%;
+    margin-left: 50%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(230, 238, 123);}
+
+.p9{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style:double;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(123, 233, 191);}
+
+.p10{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+    margin-top: 1%;
+    margin-left: 50%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(235, 131, 209);}
